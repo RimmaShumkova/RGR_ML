@@ -3,7 +3,7 @@
 ## Описание проекта
 
 Интерактивный дашборд для анализа и прогнозирования качества вина на основе набора данных "Wine Quality". Проект включает:
-- Обученные модели машинного обучения (CatBoost, Gradient Boosting, Polynomial Regression, Bagging, Stacking)
+- Обученные модели машинного обучения (CatBoost, Gradient Boosting, Polynomial Regression, Bagging, Stacking, MLP)
 - Визуализацию данных с помощью Matplotlib и Seaborn
 - Возможность загрузки данных и ручного ввода параметров для прогнозирования
 
